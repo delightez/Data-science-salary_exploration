@@ -6,4 +6,4 @@
 
 # Data-science-salary_exploration
 I analyzed a dataset of data science professionals salaries in power bi
-# I cleaned the dataset by removing blank rows,normalized some data and removed unnecessary columns
+I cleaned the dataset by removing blank rows,normalized some data and removed unnecessary columns
